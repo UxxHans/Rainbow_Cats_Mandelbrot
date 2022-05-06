@@ -3,8 +3,8 @@
 
 # ScreenShots
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Demostration.gif)
+![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2005.jpg)
+![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2004.jpg)
+![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2003.jpg)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2001.jpg)
 ![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2002.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2003.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2004.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2005.jpg)
