@@ -38,6 +38,7 @@ public class App extends PApplet {
      * Initialise the setting of the window size.
     */
     public void settings() {
+        noSmooth();
         size(GlobalSettings.CANVAS_WIDTH, GlobalSettings.CANVAS_HEIGHT);
     }
 
@@ -45,6 +46,9 @@ public class App extends PApplet {
      * Load all resources. Initialise the elements.
     */
     public void setup() {
+        //Set black background.
+        background(0, 0, 0);
+
         //Set frame rate of the game.
         frameRate(GlobalSettings.FRAME_RATE);
 
@@ -70,9 +74,6 @@ public class App extends PApplet {
         lastMouseY = mouseY; 
 
         lastCameraPosition = this.camera.getPosition();
-
-        //If the camera start moving, change the resolution to a lower value.
-        this.camera.setPixelSize(Camera.DEFAULT_PIXEL_SIZE_MAX);
     }
 
     /**
@@ -132,11 +133,10 @@ public class App extends PApplet {
         this.iterationText.setText("Maximum Iterations: " + maxIterations);
 
         //Draw the graph.
-        if(this.camera.render(maxIterations, this)){
-            this.titleText.draw(this);
-            this.iterationText.draw(this);
-            this.instructionText.draw(this);
-        }
+        this.camera.render(maxIterations, this);
+        this.titleText.draw(this);
+        this.iterationText.draw(this);
+        this.instructionText.draw(this);
 
         //Set back to camera stop
         cameraStop();
