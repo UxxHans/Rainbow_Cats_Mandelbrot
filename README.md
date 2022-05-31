@@ -3,9 +3,9 @@
  There are settings for the camera and canvas to increase resolution for better visual, but it will get laggy if the values are too high.
 
 # ScreenShots
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Demostration.gif)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2005.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2004.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2003.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2001.jpg)
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2002.jpg)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Demostration.gif)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2005.jpg)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2004.jpg)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2003.jpg)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2001.jpg)
+![Image](https://github.com/UxxHans/Rainbow_Cats_Mandelbrot/blob/main/pictures/Mandelbrot%2002.jpg)
